@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Chai07blue
+- 👀 I’m interested in Python, SQL languages
+- 🌱 I’m currently learning Python for data use, and SW testing
+- 💞️ I’m looking to collaborate on my learning project
+- 📫 How to reach me : send a message !
